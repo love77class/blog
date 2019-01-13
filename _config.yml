@@ -6,9 +6,9 @@
 title: Hexo
 subtitle:
 description:
-keywords:
-author: John Doe
-language:
+keywords: npm install -g hexo  npm ERR! Cannot read property 'length' of undefined
+author: love77class
+language: zh-CN
 timezone:
 
 # URL

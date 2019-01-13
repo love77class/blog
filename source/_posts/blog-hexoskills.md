@@ -1,7 +1,11 @@
 ---
 title: 开启手机端hexo博客遇到的坑
-date: 2019-01-13 11:41:32
-tags:
+date: 2019-01-11 05:37:02
+tags: 
+- Diary
+- fun
+categories:
+- Diary
 ---
 使用华为p10 termux 完全手机端建站 遇到一个问题卡了我一天 
 npm install -g hexo-cli 
