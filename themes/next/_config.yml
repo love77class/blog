@@ -20,7 +20,7 @@ cache:
 # `styles: source/_data/styles.styl`
 #custom_file_path:
   # Default paths: layout/_custom/*
-  #head: source/_data/head.swig
+ #head: source/_data/head.swig
   #header: source/_data/header.swig
   #sidebar: source/_data/sidebar.swig
 
@@ -138,10 +138,10 @@ exturl: false
 # External url should start with http:// or https://
 menu:
   home: / || home
-  #about: /about/ || user
-  #tags: /tags/ || tags
-  #categories: /categories/ || th
+  tags: /tags/ || tags
+  categories: /categories/ || th
   archives: /archives/ || archive
+  about: /about/ || user
   #schedule: /schedule/ || calendar
   #sitemap: /sitemap.xml || sitemap
   #commonweal: /404/ || heartbeat
@@ -277,7 +277,7 @@ excerpt_description: true
 # Automatically Excerpt. Not recommend.
 # Use <!-- more --> in the post to control excerpt accurately.
 auto_excerpt:
-  enable: false
+  enable: ture
   length: 150
 
 # Read more button
