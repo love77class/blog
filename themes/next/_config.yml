@@ -208,7 +208,7 @@ links_layout: block
   #Title: http://example.com
 
 # Sidebar Avatar
-avatar:
+avatar: /images/head_icon.jpg
   # in theme directory(source/images): /images/avatar.gif
   # in site  directory(source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
